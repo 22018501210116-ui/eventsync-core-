@@ -1,1 +1,1 @@
-"eventsync-core created in main branch" 
+"Readme File created in NotificationCenter branch" 
